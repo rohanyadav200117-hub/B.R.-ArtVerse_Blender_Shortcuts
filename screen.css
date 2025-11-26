@@ -1,0 +1,53 @@
+
+body {
+  background: #0f0f0f;
+  color: #e8e8e8;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+  background: #111;
+  border-bottom: 1px solid #222;
+}
+
+h1 {
+  margin: 0;
+  font-size: 28px;
+  color: #00aaff;
+}
+
+section {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #1a1a1a;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #333;
+}
+
+.video-btn {
+  margin-top: 5px;
+  color: #00aaff;
+  cursor: pointer;
+}
+
+.video-box {
+  display: none;
+  margin-top: 10px;
+}
+
+video {
+  width: 100%;
+  border-radius: 10px;
+}
